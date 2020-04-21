@@ -1,7 +1,0 @@
-<svg version="1.1" baseProfile="full" width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
-<rect fill="transparent" height="50" stroke="orange" stroke-width="3" width="100" x="560" y="560" /> 
-<rect fill="transparent" height="30" rx="10" ry="10" stroke="black" stroke-width="111" width="30" x="360" y="410" /> 
-<circle cx="400" cy="400" fill="transparent" r="20" stroke="red" stroke-width="5" /> 
-<line stroke="orange" stroke-width="5" x1="410" x2="450" y1="510" y2="550" /> 
-<rect fill="orange" height="50" width="50" x="170" y="180" /> 
-</svg>
