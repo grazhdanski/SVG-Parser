@@ -1,5 +1,5 @@
 # SVG Parser
-Individual course project for the OOP course during the second semester in Sofia University, FMI
+An individual course project for the OOP course during the second semester in Sofia University, FMI
 
 This is a simple SVG parser and editor console application that supports only a limited set of shapes: rectangles, circles and lines.
 
